@@ -1,6 +1,6 @@
-#  Projekt (quasar-project)
+# GIS_Projekt (gis-projekt)
 
- OpenWorld
+Obavijesti podrucija prirodnih nepogoda
 
 ## Install the dependencies
 ```bash
